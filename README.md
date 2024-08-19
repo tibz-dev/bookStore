@@ -3,13 +3,15 @@
 # BookStore
 
 # Home
-![home](https://github.com/tibz-dev/BookStore/assets/120072948/8753b5d7-f2b9-41de-9910-e8452054ce93)
+![HOME](https://github.com/user-attachments/assets/c7854921-7090-48f9-9cc5-045d3ab496ff)
 
 # Register Book
 
-![registerUser](https://github.com/tibz-dev/BookStore/assets/120072948/1d24dcff-c207-423f-87e1-0086b0f61ab2)
+![REG](https://github.com/user-attachments/assets/f288f575-eb7d-43ed-81e6-07b1c225749a)
+
 
 # Display Books
+![NAME OF BOOKS](https://github.com/user-attachments/assets/96be04e0-1018-4b05-a995-197d3dc40aee)
 
 
-![mybooks](https://github.com/tibz-dev/BookStore/assets/120072948/c9e8e0f7-9ae1-44ab-8b66-c2c9212fb6dc)
+
